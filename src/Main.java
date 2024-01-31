@@ -12,5 +12,7 @@ public class Main {
         System.out.println(jeu);
 
         System.out.println("c'est le ");
+
+        String a = "Deuxième Test";
     }
 }
