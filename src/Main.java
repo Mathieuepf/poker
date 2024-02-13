@@ -13,6 +13,6 @@ public class Main {
 
         System.out.println("c'est le ");
 
-        String a = "Deuxième Test";
+        String a = "Deuxième Test, et voici le troisième";
     }
 }
